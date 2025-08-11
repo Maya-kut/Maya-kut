@@ -1,9 +1,9 @@
-<h1 align="center"> Привет! Меня зовут Майя👋</h1>
-<h2 align="center"> Мне повезло, и моя работа связана с контролем качества <img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/ceab9321-c71d-41fa-8ad2-cc7a2c33cbc4" />
+<h1 align="center"> Привет! Меня зовут Майя🐝</h1>
+<h2 align="center"> Мне повезло, и моя работа связана с контролем качества <img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/ceab9321-c71d-41fa-8ad2-cc7a2c33cbc4" /><img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/ceab9321-c71d-41fa-8ad2-cc7a2c33cbc4" /><img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/ceab9321-c71d-41fa-8ad2-cc7a2c33cbc4" />
  
  и поиском багов 🪲🪲🪲 </h2>
 
-### Если очень захочется мне написать:
+#### Контакты для связи:
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:2534maya.kut@gmail.com)](mailto:2534maya.kut@gmail.com)
 [![Telegram](https://img.shields.io/badge/-telegram-red?color=blue&logo=telegram&logoColor=white)](https://t.me/Maiya_Lys)
 
