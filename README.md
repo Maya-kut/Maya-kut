@@ -25,5 +25,8 @@
 
 
 ### Проекты, которые приближают к цели:  🌅 🌅 🌅
+<div align="center">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Maya-kut&repo=FinalProject_Habr_UI&theme=blueberry)](https://github.com/Maya-kut/FinalProject_Habr_UI)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Maya-kut&repo=FinalProject_PetStore_API&theme=blueberry)](https://github.com/Maya-kut/FinalProject_PetStore_API)
+
+</div>
