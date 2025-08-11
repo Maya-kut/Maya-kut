@@ -7,6 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:2534maya.kut@gmail.com)](mailto:2534maya.kut@gmail.com)
 [![Telegram](https://img.shields.io/badge/-telegram-red?color=blue&logo=telegram&logoColor=white)](https://t.me/Maiya_Lys)
 
+##  В работе используются:
 <div align="center">
 <a href="https://www.jetbrains.com/idea/"><img alt="InteliJ IDEA" height="50" src="icons/IntelliJ_IDEA.png" width="50"/></a>
 <a href="https://github.com/"><img alt="GitHub" height="50" src="icons/GitHub.png" width="50"/></a>  
